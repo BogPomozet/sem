@@ -1,1 +1,2 @@
-Set up git here
+Set up git here.
+Checking CI workflow
