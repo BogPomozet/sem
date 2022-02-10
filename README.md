@@ -1,11 +1,7 @@
-
-![workflow](https://github.com/BogPomozet/sem/actions/workflows/main.yml/badge.svg)
-
 # Software Engineering Methods
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/Bogpomozet/sem/helloworld/develop?style=flat-square)
 
-[![LICENSE](https://img.shields.io/github/license/BogPomozet/sem.svg?style=flat-square)](https://github.com/BogPomozet/sem/blob/master/LICENSE)
+Master Build Status ![workflow](https://github.com/SamA29/SET08103/actions/workflows/main.yml/badge.svg) <br />
+Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/SamA29/SET08103/A%20workflow%20for%20my%20Hello%20World%20App/Release-1) <br />
+License [![LICENSE](https://img.shields.io/github/license/SamA29/SET08103.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE) <br />
+Release [![Releases](https://img.shields.io/github/release/SamA29/SET08103/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
 
-[![Releases](https://img.shields.io/github/release/BogPomozet/sem/all.svg?style=flat-square)](https://github.com/BogPomozet/sem/releases)
-
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/BogPomozet/sem/develop?style=flat-square)
